@@ -1,0 +1,16 @@
+#form{
+    display: none;
+}
+
+#contactos_totales{
+    display: flex;
+    
+    
+}
+
+.contacto{
+    width: 200px;
+    margin-right: 20px;
+    background-color: grey
+}
+
